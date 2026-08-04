@@ -72,7 +72,7 @@
 		<meta property="term" refines="#subject-13">sh2009125969</meta>
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
-		<dc:abstract>A collection of short science fiction stories by Noel Loomis.</dc:abstract>
+		<meta property="schema:abstract">A collection of short science fiction stories by Noel Loomis.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/noel-loomis"&gt;Noel Loomis&lt;/a&gt; was a prolific writer of short fiction for popular pulp magazines from the 1930s into the 1970s. While he wrote many western novels and some western short fiction, the majority of his short-form work was science fiction.&lt;/p&gt;
 			&lt;p&gt;Loomis’s science fiction is distinct from many of his contemporaries in that while he certainly wrote stories about space travel and futuristic military action, his stories more often imagined the future evolution of blue-collar professions, including (and especially) his own professional background in as a Linotype machine operator.&lt;/p&gt;
