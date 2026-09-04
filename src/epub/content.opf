@@ -32,7 +32,7 @@
 		<dc:title id="title">Short Science Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Science Fiction</meta>
 		<dc:subject id="subject-1">War stories</dc:subject>
-		<dc:subject id="subject-2">Nuclear warfare -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Nuclear warfare--Fiction</dc:subject>
 		<dc:subject id="subject-3">Inventions</dc:subject>
 		<dc:subject id="subject-4">Parking garages</dc:subject>
 		<dc:subject id="subject-5">Science fiction</dc:subject>
